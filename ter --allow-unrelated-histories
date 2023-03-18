@@ -1,0 +1,24 @@
+[33mcommit 8f2272b892d0de2c02bda8da48c1051f6e89bab3[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 3d71310 0dc3b0d
+Author: thanhdat1047 <thanhdat1047t@gmail.com>
+Date:   Sat Mar 18 13:01:56 2023 +0700
+
+    Merge branch 'aaa' of https://github.com/thanhdat1047/MyGit
+
+[33mcommit 0dc3b0dcbec603f403b2e4cbc4b00df63f7703f8[m[33m ([m[1;31morigin/aaa[m[33m, [m[1;32maaa[m[33m)[m
+Author: thanhdat1047 <thanhdat1047t@gmail.com>
+Date:   Sat Mar 18 12:54:30 2023 +0700
+
+    add file java
+
+[33mcommit 161d2e865b61def77acfe74a47f5dbb9e6ea8a17[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/b2[m[33m, [m[1;32mmain[m[33m, [m[1;32mb2[m[33m)[m
+Author: thanhdat1047 <83716711+thanhdat1047@users.noreply.github.com>
+Date:   Sat Mar 18 12:14:10 2023 +0700
+
+    Initial commit
+
+[33mcommit 3d713105e38fb23de4d794430258a5a9dad0fa24[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: thanhdat1047 <thanhdat1047t@gmail.com>
+Date:   Sat Mar 18 12:12:30 2023 +0700
+
+    add file test2.py
